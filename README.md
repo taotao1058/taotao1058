@@ -13,7 +13,7 @@
 - 🤔  正在寻求就业方面的帮助。
 - 😄  最爱在github找各种项目玩。                
 - 💬  发现好玩的项目请推荐给我哦。                  
-- 📫  联系我的Telegram： [![Telegram Badge](https://img.shields.io/badge/-听雨_Telegram-2399ff?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/az667755/)](https://t.me/az667755)
+- 📫  联系我的Telegram： [![Telegram](https://img.shields.io/badge/-听雨telegram-red?color=white&logo=telegram&logoColor=black)&link=https://t.me/az667755/)](https://t.me/az667755)
   
   #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taotao1058&show_icons=true&bg_color=00000000&locale=cn&hide=prs)
