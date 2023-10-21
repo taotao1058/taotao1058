@@ -14,14 +14,7 @@
 - ❤ 点击下方按钮联系我的Telegram。
   
 -  [![Telegram](https://img.shields.io/badge/-Telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/az667755)
--  <a href="https://t.me/az667755">
-  <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
 
-
-<a href="mailto:aman.atao96598@gmail.com">
-  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
   
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taotao1058&show_icons=true&bg_color=00000000&locale=cn&hide=prs)
