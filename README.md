@@ -15,4 +15,4 @@
 - ⚡  这是我目前最有意义的事。
 
   #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taotao1058&show_icons=true&bg_color=00000000&locale=cn&hide=Pull requests)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taotao1058&show_icons=true&bg_color=00000000&locale=cn&hide=Pullrequests)
