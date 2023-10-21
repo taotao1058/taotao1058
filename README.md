@@ -18,4 +18,4 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=taotao1058&no-frame=true&column=-1)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taotao1058&show_icons=true&bg_color=00000000&locale=cn&hide=prs)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=taotao1058)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=taotao1058)
