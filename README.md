@@ -13,7 +13,7 @@
 - 🤔  正在寻求就业方面的帮助。
 - 😄  最爱在github找各种项目玩。                
 - 💬  发现好玩的项目请推荐给我哦。                  
-- 📫  点击下方按钮联系我： [![Telegram](https://img.shields.io/badge/-Telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/az667755)
+- 📫  点击下方按钮联系我。
 -  [![Telegram](https://img.shields.io/badge/-Telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/az667755)
   
   #
