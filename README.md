@@ -11,7 +11,7 @@
 - ✨ 正在让人生变得更有意义。                  
 - 😄  正在寻找各种好玩的编程项目。                
 - 💬  发现好玩的项目请推荐给我哦。                  
-- ❤   点击下方按钮联系我的Telegram。        ![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)
+- ❤   点击下方按钮联系我的Telegram。      
   
 -  [![Telegram](https://img.shields.io/badge/-Telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/az667755)
 
