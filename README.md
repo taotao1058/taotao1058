@@ -9,7 +9,7 @@
 - 🌱  目前正在学习编程。                        
 - 👯  正在学习各种Liunx知识。                  
 - 🤔  正在寻求就业方面的帮助。
-- 😄  最爱在github找各种项目玩。                
+- 😄  正在寻找各种好玩的VPS项目。                
 - 💬  发现好玩的项目请推荐给我哦。                  
 - ❤ 点击下方按钮联系我的Telegram。
 -  [![Telegram](https://img.shields.io/badge/-Telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/az667755)
